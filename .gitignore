@@ -208,6 +208,7 @@ __marimo__/
 
 # Generated output files
 *.docx
+*.zip
 
 # AI assistant memory
 .claude/

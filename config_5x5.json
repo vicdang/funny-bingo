@@ -1,7 +1,7 @@
 {
   "default_title": "DC34 Trip - Moving Forward",
   "rounds": 3,
-  "tickets_per_round": 170,
+  "tickets_per_round": 100,
   "grid_size": 5,
   "cell_width_cm": 1.5,
   "cell_height_cm": 0.9,

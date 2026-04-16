@@ -27,7 +27,7 @@ Config-driven Bingo ticket generator for Microsoft Word (.docx), designed for pr
 - `data.json` — shared pool of tasks and criteria used by all configs
 - `config.sample.json` — sample config with inline tasks and criteria (self-contained)
 - `config_3x3.json` — ready-to-use 3×3 config (1 round, 170 tickets)
-- `config_5x5.json` — ready-to-use 5×5 config (3 rounds, 170 tickets)
+- `config_5x5.json` — ready-to-use 5×5 config (3 rounds, 100 tickets)
 - `config_7x7.json` — ready-to-use 7×7 config (3 rounds, 170 tickets)
 - `requirements.txt` — dependencies
 
